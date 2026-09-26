@@ -1,0 +1,4 @@
+{
+  "op_error_code": "E_BAD_OP",
+  "ops": ["put", "put", "take", "take", "take", "put"]
+}
